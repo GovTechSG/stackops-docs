@@ -12,7 +12,7 @@
   - [About StackOps](overview)
   - [Architecture](architecture)
   - [Technologies](technologies)
-  - [Subscription](subscription)
+  - [Subscription](subscription) <!-- this will be available when TB starts supporting StackOps -->
 **Onboard to StackOps**  
   - [Onboarding](onboarding)  
 **Training**
