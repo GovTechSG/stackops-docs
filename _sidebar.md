@@ -1,5 +1,6 @@
 **Overview**
   - [About StackOps](overview)
+  - [Audience](audience)
   - [Architecture](architecture)
 **Onboard to StackOps**  
   - [Onboarding](onboarding)  
@@ -9,8 +10,7 @@
 <!--
 
 **Overview**
-  - [Audience](audience)
-  
+   
   - [Technologies](technologies)
   - [Subscription](subscription) <!-- this will be available when TB starts supporting StackOps -->
 **Onboard to StackOps**  
