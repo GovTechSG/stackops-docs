@@ -10,7 +10,7 @@
 <!--
 
 **Overview**
-   
+  - [What's new](whats-new)
   - [Technologies](technologies)
   - [Subscription](subscription) <!-- this will be available when TB starts supporting StackOps -->
 **Onboard to StackOps**  
@@ -22,8 +22,8 @@
 **Information**
   - [Case Studies](case-studies)
   - [Roadmap](roadmap)
-  - [FAQs](faqs)
-**Support**
+  - [FAQ](faqs)
+  **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)
   - [Contact us](contact-us) 
