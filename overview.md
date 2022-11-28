@@ -4,11 +4,12 @@ StackOps was conceptualised to enable agencies to embrace Site Reliability Engin
 
 StackOps is part of the monitoring component of the [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html). This component covers tools that help users track application performance and provide operational transparency for effective incident response.
 
+
 ## What is StackOps?
 
-StackOps is a monitoring tool that focuses on the most important and critical user actions of a user’s service. It features automated reactions based on the golden monitoring and logging metrics such as latency, load, limit, and errors.
+StackOps is a monitoring tool that focuses on the most important and critical user actions of a user’s service. Alerts can be configured to trigger notifications whenever the application's performance breaches the threshold. 
 
-With StackOps, a user can access [Elastic Cloud deployment](https://www.elastic.co/guide/en/cloud/current/ec-create-deployment.html), a managed service that enables metrics monitoring and application observability using logs and traces. The features of this service include:
+It features automated reactions based on the golden monitoring and logging metrics such as latency, load, limit, and errors. With StackOps, a user can access [Elastic Cloud deployment](https://www.elastic.co/guide/en/cloud/current/ec-create-deployment.html), a managed service that enables metrics monitoring and application observability using logs and traces. The features of this service include:
 
 - Application Performance Monitoring
 - Cross-cluster replication
@@ -24,7 +25,7 @@ Adopting StackOps can benefit users in the following ways:
 - It creates meaningful presentations of metrics that are aggregated based on what service owners, administrators, and customers need to know.
 - It fills the need for monitoring and logging solutions that are quick and easy to set up, which is currently not readily available.
 - It resolves issues with tracking System Level Objectives (SLOs) for Whole-of-Government (WOG) products and services.
-- It offers a one-stop solution for monitoring the health of government services.
+- It offers a one-stop solution for monitoring the health  and performance of government services.
 
 ## Success stories
 
