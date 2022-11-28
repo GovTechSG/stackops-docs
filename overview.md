@@ -1,15 +1,24 @@
 # About StackOps
 
-StackOps was conceptualised to enable agencies to embrace Site Reliability Engineering (SRE), which emphasises automated monitoring and logging of services. SRE also shifts monitoring and logging processes into the development cycle itself to ensure that operational concerns and reliability concepts are built-in.
+StackOps is part of the monitoring component of the Singapore Government Tech Stack (SGTS). It was conceptualised to enable agencies to embrace Site Reliability Engineering (SRE), which emphasises observing the performance of every component and service in a system.
 
-StackOps is part of the monitoring component of the [Singapore Government Tech Stack (SGTS)](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html). This component covers tools that help users track application performance and provide operational transparency for effective incident response.
+The SRE approach will also improve DevSecOps maturity by shifting logging and monitoring into the development cycle. As a  result, it ensures that operational concerns and reliability concepts are built-in.
+
+As a component, StackOps helps its users to :
+
+- Track and monitor traces
+- Track and monitor logs and metrics
+- Monitor application performance and
+- Provide operational transparency for effective incident response.
 
 
 ## What is StackOps?
 
-StackOps is a monitoring tool that focuses on the most important and critical user actions of a user’s service. Alerts can be configured to trigger notifications whenever the application's performance breaches the threshold. 
+StackOps is a monitoring tool that focuses on the most important and critical user actions of a user’s service. Alerts can be configured to trigger notifications whenever the application's performance breaches the threshold.
 
-It features automated reactions based on the golden monitoring and logging metrics such as latency, load, limit, and errors. With StackOps, a user can access [Elastic Cloud deployment](https://www.elastic.co/guide/en/cloud/current/ec-create-deployment.html), a managed service that enables metrics monitoring and application observability using logs and traces. The features of this service include:
+It features automated reactions based on the golden monitoring and logging metrics such as latency, load, limit, and errors. With StackOps, a user can access [Elastic Cloud deployment](https://www.elastic.co/guide/en/cloud/current/ec-create-deployment.html), a managed service that enables metrics monitoring and application observability using logs and traces.
+
+StackOps features are:
 
 - Application Performance Monitoring
 - Cross-cluster replication
