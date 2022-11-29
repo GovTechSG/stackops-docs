@@ -3,7 +3,7 @@
   - [Audience](audience)
   - [Architecture](architecture)
 **Onboard to StackOps**  
-  - [Onboarding](onboarding)  
+  - [Provisioning](provisioning)  
 **Support**
   - [Contact us](contact-us) 
 
