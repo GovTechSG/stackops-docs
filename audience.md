@@ -6,6 +6,6 @@ This documentation is intended for the following users:
 - Devops team
 - Site reliability engineer
 - Operations team
-- Incident management teams for an improved incident repsonse
+- Incident management team
 
 

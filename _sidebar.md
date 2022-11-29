@@ -12,7 +12,7 @@
 **Overview**
   - [What's new](whats-new)
   - [Technologies](technologies)
-  - [Subscription](subscription) <!-- this will be available when TB starts supporting StackOps -->
+  - [Subscription](subscription) (this will be available when TB starts supporting StackOps )
 **Onboard to StackOps**  
   - [Onboarding](onboarding)  
 **Training**
