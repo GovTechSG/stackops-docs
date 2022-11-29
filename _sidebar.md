@@ -1,5 +1,7 @@
 **Overview**
   - [About StackOps](overview)
+  - [Audience](audience)
+  - [Architecture](architecture)
 **Onboard to StackOps**  
   - [Onboarding](onboarding)  
 **Support**
@@ -8,11 +10,9 @@
 <!--
 
 **Overview**
-  - [Audience](audience)
-  - [About StackOps](overview)
-  - [Architecture](architecture)
+  - [What's new](whats-new)
   - [Technologies](technologies)
-  - [Subscription](subscription) <!-- this will be available when TB starts supporting StackOps -->
+  - [Subscription](subscription) (this will be available when TB starts supporting StackOps )
 **Onboard to StackOps**  
   - [Onboarding](onboarding)  
 **Training**
@@ -22,8 +22,8 @@
 **Information**
   - [Case Studies](case-studies)
   - [Roadmap](roadmap)
-  - [FAQs](faqs)
-**Support**
+  - [FAQ](faqs)
+  **Support**
   - [Terms & Policies](terms-and-policies)
   - [Support](support)
   - [Contact us](contact-us) 
